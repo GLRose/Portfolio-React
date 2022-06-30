@@ -1,0 +1,48 @@
+h1 {
+  font-family: "Aldrich";
+  color: #6eb8c7;
+  text-align: left;
+  padding: 10px;
+  font-size: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #bfe7f1;
+  width: 100%;
+}
+
+li {
+  font-family: "Aldrich";
+  /* float: left; */
+  display: inline-block;
+  padding: 15px;
+  font-size: 40px;
+}
+
+li a:hover {
+  font-size: 37px;
+  cursor: url(../images/darkCustomArrow.svg), auto;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+}
+
+.socials {
+  font-size: 55px;
+  float: right;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: black;
+  cursor: url(../images/darkCustomArrow.svg), auto;
+}
+
+.socials:hover {
+  color: white;
+}

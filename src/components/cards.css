@@ -1,0 +1,8 @@
+.card h1 {
+  color: black;
+  border-radius: 5px;
+  border: 2px solid red;
+  width: max-content;
+  font-size: 100px;
+  display: inline-block;
+}

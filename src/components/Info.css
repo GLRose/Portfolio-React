@@ -1,0 +1,8 @@
+.infoCard {
+  font-family: "Aldrich";
+  /* font-size: 40px; */
+  color: white;
+  width: 1800px;
+  display: inline-flex;
+  align-items: stretch;
+}

@@ -1,0 +1,5 @@
+body {
+  background-image: url("./images/Background-site-no-logo.jpg");
+  cursor: url(./images/customArrow.svg), auto;
+  background-size: 1920px 1024px;
+}
