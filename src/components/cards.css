@@ -1,8 +1,12 @@
 .card h1 {
   color: black;
-  border-radius: 5px;
-  border: 2px solid red;
-  width: max-content;
+  border: 20px solid red;
+  width: 554px;
   font-size: 100px;
+  /* The contents of the text to be centered is auto margins to the left and the right */
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
   display: inline-block;
+  margin: 10px;
 }

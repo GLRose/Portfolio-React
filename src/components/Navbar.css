@@ -8,24 +8,25 @@ h1 {
 
 ul {
   list-style-type: none;
-  margin: 0;
   padding: 0;
+  margin: 0;
   overflow: hidden;
   background-color: #bfe7f1;
   width: 100%;
+  justify-content: center;
 }
 
 li {
   font-family: "Aldrich";
-  /* float: left; */
-  display: inline-block;
-  padding: 15px;
+  margin: 10px;
   font-size: 40px;
+  float: left;
 }
 
 li a:hover {
   font-size: 37px;
   cursor: url(../images/darkCustomArrow.svg), auto;
+  color: #28738C;
 }
 
 li a {
@@ -36,7 +37,7 @@ li a {
 .socials {
   font-size: 55px;
   float: right;
-  margin: 0;
+  margin: 10px;
   padding: 0;
   text-decoration: none;
   color: black;
