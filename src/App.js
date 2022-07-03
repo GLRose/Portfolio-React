@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import "./App.css";
 import "./Index.css";
 import "./components/Navbar.js";
@@ -13,7 +13,7 @@ function App() {
       <LogoGR />
       <Navbar />
       <Info />
-      <Cards />
+      {/* <Cards /> */}
     </div>
   );
 }

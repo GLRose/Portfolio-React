@@ -1,13 +1,41 @@
 .defaultLogo {
-  display: flex;
+  display: block;
   padding-left: 39px;
   padding-top: 66px;
 }
 
-h1 {
+.defaultLogo:hover {
+  -webkit-animation: spin 1s linear infinite;
+  -moz-animation: spin 1s linear infinite;
+  animation: spin 1s linear infinite;
+  padding-left: 39px;
+  padding-right: 39px;
+}
+
+@-moz-keyframes spin {
+  100% {
+    -moz-transform: rotateY(360deg);
+  }
+}
+@-webkit-keyframes spin {
+  100% {
+    -webkit-transform: rotateY(360deg);
+  }
+}
+@keyframes spin {
+  100% {
+    -webkit-transform: rotateY(360deg);
+    transform: rotateY(360deg);
+  }
+}
+
+.myName{
+  font-family: "Aldrich";
+  color: #6eb8c7;
+  text-align: left;
+  padding: 10px;
   margin-left: 215px;
   margin-top: -140px;
   margin-bottom: 90px;
   font-size: 65px;
 }
-
