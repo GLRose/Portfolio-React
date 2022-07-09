@@ -1,7 +1,7 @@
 {
-  "main.css": "/Portfolio-React/static/css/main.90b73f03.chunk.css",
-  "main.js": "/Portfolio-React/static/js/main.f6fe5a5b.chunk.js",
-  "main.js.map": "/Portfolio-React/static/js/main.f6fe5a5b.chunk.js.map",
+  "main.css": "/Portfolio-React/static/css/main.21554f3e.chunk.css",
+  "main.js": "/Portfolio-React/static/js/main.a37e3785.chunk.js",
+  "main.js.map": "/Portfolio-React/static/js/main.a37e3785.chunk.js.map",
   "static/js/1.058e4258.chunk.js": "/Portfolio-React/static/js/1.058e4258.chunk.js",
   "static/js/1.058e4258.chunk.js.map": "/Portfolio-React/static/js/1.058e4258.chunk.js.map",
   "runtime~main.js": "/Portfolio-React/static/js/runtime~main.d68143df.js",
@@ -13,8 +13,8 @@
   "static/media/GR-Profile-blue.png": "/Portfolio-React/static/media/GR-Profile-blue.16b47f5e.png",
   "static/media/Index.css": "/Portfolio-React/static/media/Background-site-no-logo.1ecb71ef.jpg",
   "static/media/Navbar.css": "/Portfolio-React/static/media/darkCustomArrow.bb43ac29.svg",
-  "static/css/main.90b73f03.chunk.css.map": "/Portfolio-React/static/css/main.90b73f03.chunk.css.map",
+  "static/css/main.21554f3e.chunk.css.map": "/Portfolio-React/static/css/main.21554f3e.chunk.css.map",
   "index.html": "/Portfolio-React/index.html",
-  "precache-manifest.f13f77b2e197c96a821e006041785251.js": "/Portfolio-React/precache-manifest.f13f77b2e197c96a821e006041785251.js",
+  "precache-manifest.3e073d96bcbd707c638cb0fc9161edfe.js": "/Portfolio-React/precache-manifest.3e073d96bcbd707c638cb0fc9161edfe.js",
   "service-worker.js": "/Portfolio-React/service-worker.js"
 }
