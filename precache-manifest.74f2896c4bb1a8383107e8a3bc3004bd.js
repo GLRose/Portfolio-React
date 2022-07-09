@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/Portfolio-React/static/media/GR-Profile-blue.16b47f5e.png"
   },
   {
-    "revision": "1ecb71efa452b02986c5935140b7142a",
-    "url": "/Portfolio-React/static/media/Background-site-no-logo.1ecb71ef.jpg"
-  },
-  {
     "revision": "e9b2593f4a634ae6fdbdf11b750153fa",
     "url": "/Portfolio-React/static/media/customArrow.e9b2593f.svg"
+  },
+  {
+    "revision": "1ecb71efa452b02986c5935140b7142a",
+    "url": "/Portfolio-React/static/media/Background-site-no-logo.1ecb71ef.jpg"
   },
   {
     "revision": "bb43ac2951fae67812e08e33a6045138",
