@@ -1,11 +1,13 @@
-import React from 'react';
+import React from "react";
 import "./App.css";
 import "./Index.css";
 import "./components/Navbar.js";
 import Navbar from "./components/Navbar.js";
 import Info from "./components/Info.js";
-import Cards from "./components/Cards";
+import Cards from "./components/Cards.js";
 import LogoGR from "./components/LogoGR";
+import About from "./components/About.js";
+import Form from "./components/Form.js"
 
 function App() {
   return (
@@ -13,7 +15,9 @@ function App() {
       <LogoGR />
       <Navbar />
       <Info />
-      {/* <Cards /> */}
+      <Cards />
+      <About/>
+      {/* <Form/> */}
     </div>
   );
 }

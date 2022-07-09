@@ -1,17 +1,14 @@
-import React, {useEffect, useState} from "react";
+import React from "react";
 import "./Cards.css";
+import Todo from "../images/Todo.PNG"
+import Git from "../images/git.PNG"
+
 
 const Cards = () => {
-  const [front, setFront] = useState(false);
-  //ever time an event fires, useEffect will happen as an after effect 
-  useEffect(() => { 
-    console.log(front);
-   });
   return (
-    <div class="card">
-      <h1>Project1</h1>
-      <h1>Project2</h1>
-      <h1>Project3</h1>
+    <div className="card">
+      <a href="https://github.com/GLRose/React-TodoList"><img src={Todo} alt="git"/></a>
+      <img src={Git} alt="git"/>
     </div>
   );
 };

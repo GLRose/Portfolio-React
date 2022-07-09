@@ -2,7 +2,6 @@ import React from "react";
 import "./Navbar.css";
 import {
   AiFillGithub,
-  AiFillLinkedin,
   AiFillCodepenCircle,
 } from "react-icons/ai";
 import { AiFillFileText } from "react-icons/ai";
@@ -13,24 +12,22 @@ const Navbar = () => {
     <div>
       <ul>
         <li>
-          <a href="#about">About</a>
+          <a href="/index.html">Home</a>
         </li>
         <li>
-          <a href="#goals">Goals</a>
+          <a href="#About">About</a>
         </li>
         <li>
           <a href="#projects">Projects</a>
         </li>
-        <li>
-          <a href="#experience">Experience</a>
-        </li>
-        <a href="https://github.com/GLRose">
-          <AiFillGithub class="socials" />
+        <a href="https://github.com/GLRose" title="github">
+          <AiFillGithub className="socials" />
         </a>
-        <AiFillLinkedin class="socials" />
-        <AiFillCodepenCircle class="socials" />
-        <a href={Pdf} download="resume.pdf">
-        <AiFillFileText class="socials" />
+        <a href="https://codepen.io/glrose/pens/public" title="codepen">
+          <AiFillCodepenCircle className="socials" />
+        </a>
+        <a href={Pdf} download="resume.pdf" title="resume">
+          <AiFillFileText className="socials" />
         </a>
       </ul>
     </div>
