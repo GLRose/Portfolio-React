@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./Form.css";
 
-
 const Form = () => {
   const [input, setInput] = useState({
     message: "",
@@ -23,7 +22,7 @@ const Form = () => {
   return (
     <div>
       <form className="form" onSubmit={handleSubmit}>
-      <h1>Inquiries</h1>
+        <h1>Inquiries</h1>
         <textarea
           type="text"
           id="message"

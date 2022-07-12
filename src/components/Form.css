@@ -1,10 +1,10 @@
-.form textarea{
-    height: 300px;
-    width: 500px;
-    resize: none;
-    border-radius: 10px;
+.form textarea {
+  height: 300px;
+  width: 500px;
+  resize: none;
+  border-radius: 10px;
 }
 
-.form label{
-    font-size: 20px;
+.form label {
+  font-size: 20px;
 }

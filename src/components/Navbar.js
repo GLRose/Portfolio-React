@@ -1,9 +1,6 @@
 import React from "react";
 import "./Navbar.css";
-import {
-  AiFillGithub,
-  AiFillCodepenCircle,
-} from "react-icons/ai";
+import { AiFillGithub, AiFillCodepenCircle } from "react-icons/ai";
 import { AiFillFileText } from "react-icons/ai";
 import Pdf from "../credentials/resume.pdf";
 
