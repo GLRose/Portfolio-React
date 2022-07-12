@@ -13,7 +13,7 @@
 .infoCard .hi {
   font-size: 40px;
   animation-name: fading;
-  animation-duration: 2s;
+  animation-duration: 200ms;
   animation-iteration-count: 1;
 }
 
@@ -26,7 +26,7 @@
 
 @keyframes fading {
   0% {
-    opacity: 0%;
+    opacity: 1%;
   }
   100% {
     opacity: 100%;
@@ -35,7 +35,7 @@
 
 @keyframes fading2 {
   0% {
-    opacity: 0%;
+    opacity: 1%;
   }
   100% {
     opacity: 100%;
