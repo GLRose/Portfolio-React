@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "84307f1c6baa8c4a8e8b",
-    "url": "/Portfolio-React/static/css/main.2b023628.chunk.css"
+    "revision": "801a6a2c7d274d358875",
+    "url": "/Portfolio-React/static/css/main.cfbae379.chunk.css"
   },
   {
-    "revision": "84307f1c6baa8c4a8e8b",
-    "url": "/Portfolio-React/static/js/main.84307f1c.chunk.js"
+    "revision": "801a6a2c7d274d358875",
+    "url": "/Portfolio-React/static/js/main.801a6a2c.chunk.js"
   },
   {
-    "revision": "7def7d39e63a15b9c818",
-    "url": "/Portfolio-React/static/js/1.7def7d39.chunk.js"
+    "revision": "28ffc5b2d5eeac29ac2e",
+    "url": "/Portfolio-React/static/js/1.28ffc5b2.chunk.js"
   },
   {
     "revision": "d68143df2e3e8e9095f5",
@@ -18,6 +18,10 @@ self.__precacheManifest = [
   {
     "revision": "cc3eb36aa74e834aa9fe6a57a777f4f5",
     "url": "/Portfolio-React/static/media/resume.cc3eb36a.pdf"
+  },
+  {
+    "revision": "2ff84112b41f8c727ac867e7a90d8592",
+    "url": "/Portfolio-React/static/media/GR-PP.2ff84112.png"
   },
   {
     "revision": "9e4e3ec4acecef782e04aebc897fa681",
@@ -48,11 +52,7 @@ self.__precacheManifest = [
     "url": "/Portfolio-React/static/media/darkCustomArrow.bb43ac29.svg"
   },
   {
-    "revision": "16b47f5e86a09ee6aa78a07ebcdd8039",
-    "url": "/Portfolio-React/static/media/GR-Profile-blue.16b47f5e.png"
-  },
-  {
-    "revision": "45a732d1f70f21f2218b589f9dfbdcb9",
+    "revision": "d5766d9c9d3223e6008f1df6749a98f6",
     "url": "/Portfolio-React/index.html"
   }
 ];
