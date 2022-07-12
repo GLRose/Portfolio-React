@@ -1,12 +1,12 @@
 .about{
     font-family: "Aldrich";
-    color: white;
+    color: #6eb8c7;
     font-size: 20px;
-    font-size: 30px;
     line-height: 50px;
-    /* opacity: .5; */
+    font-weight: 10;
+    max-width: 670px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
 }
 
-.about:hover{
-    opacity: 1;
-}

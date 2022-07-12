@@ -1,11 +1,15 @@
 import React from "react";
 import "./Info.css";
+import Face from "../images/GR-Profile-blue.png";
 
 const About = () => {
   return (
     <div className="infoCard">
-      <h1 className="hi">Hi, my name is Garrett</h1> <br></br>
-      <h2 className="iBuild">I build things for the web. . .</h2>
+      {/* <img className="Face" alt="Face" src={Face} /> */}
+      <p className="hi">My name is Garrett Rose.</p>
+      <p className="look">
+        I am a web developer creating and learning all the time.
+      </p>
     </div>
   );
 };

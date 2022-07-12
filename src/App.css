@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Comfortaa:wght@300;700&family=Dancing+Script&family=Roboto:wght@100&display=swap');
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
@@ -37,3 +37,4 @@
     transform: rotate(360deg);
   }
 }
+

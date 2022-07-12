@@ -1,19 +1,33 @@
 .card {
-  display: grid;
-  gap: 1px;
-  grid-template-columns: repeat(2, 1fr);
-  margin-top: 80px;
+  margin-top: 65px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
-
-.card img{
+.card img {
   border: 10px solid rgba(255, 255, 255, 0.06);
+  width: 500px;
   height: 400px;
-  width: 600px;
-  opacity: 0.4;
+  opacity: .5;
+  cursor: url(../images/darkCustomArrow.svg), auto;
+  object-fit: cover;
 }
 
-.card img:hover{
+.card img:hover {
   border: 10px solid #bfe7f1;
   opacity: 1;
 }
+
+@media screen and (max-width: 600px){
+  .card {
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+  }
+  .card img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+  }
+ }

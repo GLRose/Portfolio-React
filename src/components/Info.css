@@ -1,33 +1,44 @@
-.infoCard  {
+.infoCard {
   font-family: "Aldrich";
   color: white;
-  font-size: 20px;
-  word-break: break-all;
+  font-size: 18px;
+  line-height: 50px;
+  font-weight: 10;
+  max-width: 670px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 65px;
 }
 
 .infoCard .hi {
-  float: left;
   font-size: 40px;
   animation-name: fading;
-  animation-duration: 2s;
+  animation-duration: 3s;
   animation-iteration-count: 1;
 }
 
-.infoCard .iBuild {
-  margin-left: -800px;
-  margin-top: 100px;
-  font-size: 30px;
+.infoCard .look {
+  font-size: 33px;
   animation-name: fading2;
   animation-duration: 5s;
   animation-iteration-count: 1;
+
 }
 
-@keyframes fading{
-  0%{opacity:0%;}
-  100%{opacity: 100%;}
-}
-@keyframes fading2{
-  0%{opacity:0%;}
-  100%{opacity: 100%;}
+@keyframes fading {
+  0% {
+    opacity: 0%;
+  }
+  100% {
+    opacity: 100%;
+  }
 }
 
+@keyframes fading2 {
+  0% {
+    opacity: 0%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}

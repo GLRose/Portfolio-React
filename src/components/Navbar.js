@@ -9,7 +9,7 @@ import Pdf from "../credentials/resume.pdf";
 
 const Navbar = () => {
   return (
-    <div>
+    <div className="navbar">
       <ul>
         <li>
           <a href="/index.html">Home</a>

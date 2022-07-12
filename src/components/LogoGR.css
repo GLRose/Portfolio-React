@@ -5,9 +5,9 @@
 }
 
 .defaultLogo:hover {
-  -webkit-animation: spin 1s linear infinite;
-  -moz-animation: spin 1s linear infinite;
-  animation: spin 1s linear infinite;
+  /* -webkit-animation: spin 1s linear infinite; */
+  -moz-animation: spin 1s linear;
+  animation: spin 1s linear;
   padding-left: 39px;
   padding-right: 39px;
 }
@@ -29,13 +29,5 @@
   }
 }
 
-.myName{
-  font-family: "Aldrich";
-  color: #6eb8c7;
-  text-align: left;
-  padding: 10px;
-  margin-left: 215px;
-  margin-top: -140px;
-  margin-bottom: 90px;
-  font-size: 65px;
-}
+
+

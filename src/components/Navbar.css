@@ -1,41 +1,45 @@
 ul {
   list-style-type: none;
-  padding: 0;
-  margin: 0;
-  overflow: hidden;
-  background-color: #bfe7f1;
-  width: 100%;
-  justify-content: center;
+  display: flex;
+  justify-self: flex-start;
+  padding: 0px;
 }
 
 li {
   font-family: "Aldrich";
-  margin: 10px;
-  font-size: 40px;
-  float: left;
+  font-size: 30px;
+  padding: 10px;
 }
 
 li a:hover {
-  font-size: 37px;
   cursor: url(../images/darkCustomArrow.svg), auto;
   color: #28738C;
 }
 
 li a {
   text-decoration: none;
-  color: black;
+  color: #6eb8c7;
 }
 
 .socials {
-  font-size: 55px;
-  float: right;
-  margin: 6px;
-  padding: 0;
+  font-size: 45px;
+  padding: 5px;
   text-decoration: none;
-  color: black;
+  color: #6eb8c7;
   cursor: url(../images/darkCustomArrow.svg), auto;
 }
 
 .socials:hover {
   color: white;
+}
+
+@media screen and (max-width: 600px){
+  li {
+    font-size: 20px;
+    padding: 5px;
+  }
+  .socials{
+
+    font-size: 30px;
+  }
 }
