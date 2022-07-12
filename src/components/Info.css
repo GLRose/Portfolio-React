@@ -13,7 +13,7 @@
 .infoCard .hi {
   font-size: 40px;
   animation-name: fading;
-  animation-duration: 2.5s;
+  animation-duration: 2s;
   animation-iteration-count: 1;
 }
 
