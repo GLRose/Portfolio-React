@@ -13,31 +13,31 @@
 .infoCard .hi {
   font-size: 40px;
   animation-name: fading;
-  animation-duration: 200ms;
+  animation-duration: 5000ms;
   animation-iteration-count: 1;
 }
 
 .infoCard .look {
   font-size: 33px;
   animation-name: fading2;
-  animation-duration: 3s;
+  animation-duration: 6000ms;
   animation-iteration-count: 1;
 }
 
 @keyframes fading {
   0% {
-    opacity: 1%;
+    opacity: 0;
   }
   100% {
-    opacity: 100%;
+    opacity: 1;
   }
 }
 
 @keyframes fading2 {
   0% {
-    opacity: 1%;
+    opacity: 0;
   }
   100% {
-    opacity: 100%;
+    opacity: 1;
   }
 }
