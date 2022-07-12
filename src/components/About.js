@@ -1,6 +1,5 @@
 import React from "react";
 import "./About.css";
-// import Tutorial from '../images/tutorial.mkv'
 
 const About = () => {
   return (

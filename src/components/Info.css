@@ -13,14 +13,14 @@
 .infoCard .hi {
   font-size: 40px;
   animation-name: fading;
-  animation-duration: 3s;
+  animation-duration: 2.5s;
   animation-iteration-count: 1;
 }
 
 .infoCard .look {
   font-size: 33px;
   animation-name: fading2;
-  animation-duration: 5s;
+  animation-duration: 3s;
   animation-iteration-count: 1;
 }
 
