@@ -1,0 +1,50 @@
+self.__precacheManifest = [
+  {
+    "revision": "1626d9addf88afa78765",
+    "url": "/Portfolio-React/static/css/main.816dc69c.chunk.css"
+  },
+  {
+    "revision": "1626d9addf88afa78765",
+    "url": "/Portfolio-React/static/js/main.1626d9ad.chunk.js"
+  },
+  {
+    "revision": "25b10bc3958e9d53d0c3",
+    "url": "/Portfolio-React/static/js/1.25b10bc3.chunk.js"
+  },
+  {
+    "revision": "d68143df2e3e8e9095f5",
+    "url": "/Portfolio-React/static/js/runtime~main.d68143df.js"
+  },
+  {
+    "revision": "9e4e3ec4acecef782e04aebc897fa681",
+    "url": "/Portfolio-React/static/media/Todo.9e4e3ec4.PNG"
+  },
+  {
+    "revision": "cc3eb36aa74e834aa9fe6a57a777f4f5",
+    "url": "/Portfolio-React/static/media/resume.cc3eb36a.pdf"
+  },
+  {
+    "revision": "6335649b3e48b672fde14094f740c6e8",
+    "url": "/Portfolio-React/static/media/logo.6335649b.png"
+  },
+  {
+    "revision": "1ecb71efa452b02986c5935140b7142a",
+    "url": "/Portfolio-React/static/media/Background-site-no-logo.1ecb71ef.jpg"
+  },
+  {
+    "revision": "e9b2593f4a634ae6fdbdf11b750153fa",
+    "url": "/Portfolio-React/static/media/customArrow.e9b2593f.svg"
+  },
+  {
+    "revision": "bb43ac2951fae67812e08e33a6045138",
+    "url": "/Portfolio-React/static/media/darkCustomArrow.bb43ac29.svg"
+  },
+  {
+    "revision": "16b47f5e86a09ee6aa78a07ebcdd8039",
+    "url": "/Portfolio-React/static/media/GR-Profile-blue.16b47f5e.png"
+  },
+  {
+    "revision": "9c0f3aaca5704f769a8a6a513965b82d",
+    "url": "/Portfolio-React/index.html"
+  }
+];
