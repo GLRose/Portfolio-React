@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cd3d2dd9ea5ae6ee28b7",
-    "url": "/Portfolio-React/static/css/main.50f4ea33.chunk.css"
+    "revision": "84307f1c6baa8c4a8e8b",
+    "url": "/Portfolio-React/static/css/main.2b023628.chunk.css"
   },
   {
-    "revision": "cd3d2dd9ea5ae6ee28b7",
-    "url": "/Portfolio-React/static/js/main.cd3d2dd9.chunk.js"
+    "revision": "84307f1c6baa8c4a8e8b",
+    "url": "/Portfolio-React/static/js/main.84307f1c.chunk.js"
   },
   {
     "revision": "7def7d39e63a15b9c818",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/Portfolio-React/static/media/GR-Profile-blue.16b47f5e.png"
   },
   {
-    "revision": "c3bf3e911ac92a2c15acc2c361ec8547",
+    "revision": "45a732d1f70f21f2218b589f9dfbdcb9",
     "url": "/Portfolio-React/index.html"
   }
 ];
