@@ -38,9 +38,9 @@ li a {
 @media screen and (max-width: 600px) {
   li {
     font-size: 20px;
-    padding: 5px;
+    padding: 3px;
   }
   .socials {
-    font-size: 30px;
+    font-size: 25px;
   }
 }
