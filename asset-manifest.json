@@ -1,7 +1,7 @@
 {
-  "main.css": "/Portfolio-React/static/css/main.eac23f44.chunk.css",
-  "main.js": "/Portfolio-React/static/js/main.0f6e8cc3.chunk.js",
-  "main.js.map": "/Portfolio-React/static/js/main.0f6e8cc3.chunk.js.map",
+  "main.css": "/Portfolio-React/static/css/main.5addfc36.chunk.css",
+  "main.js": "/Portfolio-React/static/js/main.e803592b.chunk.js",
+  "main.js.map": "/Portfolio-React/static/js/main.e803592b.chunk.js.map",
   "static/js/1.28ffc5b2.chunk.js": "/Portfolio-React/static/js/1.28ffc5b2.chunk.js",
   "static/js/1.28ffc5b2.chunk.js.map": "/Portfolio-React/static/js/1.28ffc5b2.chunk.js.map",
   "runtime~main.js": "/Portfolio-React/static/js/runtime~main.d68143df.js",
@@ -12,10 +12,10 @@
   "static/media/typingGame.PNG": "/Portfolio-React/static/media/typingGame.b3e33dc9.PNG",
   "static/media/git.PNG": "/Portfolio-React/static/media/git.94e785bc.PNG",
   "static/media/logo.png": "/Portfolio-React/static/media/logo.6335649b.png",
-  "static/media/Index.css": "/Portfolio-React/static/media/customArrow.e9b2593f.svg",
+  "static/media/Index.css": "/Portfolio-React/static/media/Background-site4.73260e70.jpg",
   "static/media/Cards.css": "/Portfolio-React/static/media/darkCustomArrow.bb43ac29.svg",
-  "static/css/main.eac23f44.chunk.css.map": "/Portfolio-React/static/css/main.eac23f44.chunk.css.map",
+  "static/css/main.5addfc36.chunk.css.map": "/Portfolio-React/static/css/main.5addfc36.chunk.css.map",
   "index.html": "/Portfolio-React/index.html",
-  "precache-manifest.3e6a1d756759b00c890f9d219167f042.js": "/Portfolio-React/precache-manifest.3e6a1d756759b00c890f9d219167f042.js",
+  "precache-manifest.c77ccb0173ce9fd65130aad28a38ce16.js": "/Portfolio-React/precache-manifest.c77ccb0173ce9fd65130aad28a38ce16.js",
   "service-worker.js": "/Portfolio-React/service-worker.js"
 }
