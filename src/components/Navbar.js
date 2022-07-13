@@ -12,10 +12,10 @@ const Navbar = () => {
           <a href="/index.html">Home</a>
         </li>
         <li>
-          <a href="#About">About</a>
+          <a href="#Face">About</a>
         </li>
         <li>
-          <a href="#projects">Projects</a>
+          <a href="#card">Projects</a>
         </li>
         <a href="https://github.com/GLRose" title="github">
           <AiFillGithub className="socials" />
