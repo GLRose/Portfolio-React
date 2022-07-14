@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/Portfolio-React/static/media/logo.6335649b.png"
   },
   {
-    "revision": "73260e704de34f2b06f4e30e3b8159d1",
-    "url": "/Portfolio-React/static/media/Background-site4.73260e70.jpg"
-  },
-  {
     "revision": "e9b2593f4a634ae6fdbdf11b750153fa",
     "url": "/Portfolio-React/static/media/customArrow.e9b2593f.svg"
+  },
+  {
+    "revision": "73260e704de34f2b06f4e30e3b8159d1",
+    "url": "/Portfolio-React/static/media/Background-site4.73260e70.jpg"
   },
   {
     "revision": "bb43ac2951fae67812e08e33a6045138",
