@@ -1,7 +1,7 @@
 import React from "react";
 import "./Navbar.css";
 import { AiFillGithub, AiFillCodepenCircle } from "react-icons/ai";
-import { AiFillFileText } from "react-icons/ai";
+import {HiOutlineDocumentDownload} from "react-icons/hi";
 import Pdf from "../credentials/resume.pdf";
 
 const Navbar = () => {
@@ -9,7 +9,7 @@ const Navbar = () => {
     <div className="navbar">
       <ul>
         <li>
-          <a href="#">Home</a>
+          <a href="/">Home</a>
         </li>
         <li>
           <a href="#Face">About</a>
@@ -24,7 +24,7 @@ const Navbar = () => {
           <AiFillCodepenCircle className="socials" />
         </a>
         <a href={Pdf} download="resume.pdf" title="resume">
-          <AiFillFileText className="socials" />
+          <HiOutlineDocumentDownload className="socials" />
         </a>
       </ul>
     </div>
