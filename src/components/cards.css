@@ -7,7 +7,7 @@
 
 .card img {
   border: 10px solid rgba(255, 255, 255, 0.06);
-  width: 500px;
+  width: 440px;
   height: 400px;
   opacity: 0.5;
   cursor: url(../images/darkCustomArrow.svg), auto;
@@ -28,6 +28,6 @@
   .card img {
     width: 330px;
     height: 330px;
-    object-fit: cover;
+    /* object-fit: cover; */
   }
 }
