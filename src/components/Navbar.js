@@ -1,7 +1,7 @@
 import React from "react";
 import "./Navbar.css";
 import { AiFillGithub, AiFillCodepenCircle } from "react-icons/ai";
-import {HiOutlineDocumentDownload} from "react-icons/hi";
+import { HiOutlineDocumentDownload } from "react-icons/hi";
 import Pdf from "../credentials/resume.pdf";
 
 const Navbar = () => {

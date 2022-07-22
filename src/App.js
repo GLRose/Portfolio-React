@@ -7,7 +7,6 @@ import Info from "./components/Info.js";
 import Cards from "./components/Cards.js";
 import LogoGR from "./components/LogoGR";
 import About from "./components/About.js";
-// import Form from "./components/Form.js"
 
 function App() {
   return (
@@ -17,7 +16,6 @@ function App() {
       <Info />
       <About/>
       <Cards />
-      {/* <Form/> */}
     </div>
   );
 }

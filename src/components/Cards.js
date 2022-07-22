@@ -7,7 +7,7 @@ import Git from "../images/git.PNG"
 const Cards = () => {
   return (
     <div className="card" id="card">
-      <a href="https://github.com/GLRose/React-TodoList" className="box">
+      <a href="https://glrose.github.io/breakfast-picker/" className="box">
         <img src={Todo} alt="git" />
       </a>
       <a href="https://github.com/GLRose/typingGame" className="box">
