@@ -17,6 +17,7 @@
 .card img:hover {
   border: 10px solid #bfe7f1;
   opacity: 1;
+  border-radius: 5px;
 }
 
 @media screen and (max-width: 600px) {
