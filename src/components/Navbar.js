@@ -1,6 +1,6 @@
 import React from "react";
 import "./Navbar.css";
-import { AiFillGithub, AiFillCodepenCircle } from "react-icons/ai";
+import { AiFillGithub, AiFillCodepenCircle, AiFillLinkedin } from "react-icons/ai";
 import { HiOutlineDocumentDownload } from "react-icons/hi";
 import Pdf from "../credentials/resume.pdf";
 
@@ -25,6 +25,9 @@ const Navbar = () => {
         </a>
         <a href={Pdf} download="resume.pdf" title="resume">
           <HiOutlineDocumentDownload className="socials" />
+        </a>
+        <a href="https://www.linkedin.com/in/garrett-rose-b0974a131/" title="linkedin">
+          <AiFillLinkedin  className="socials" />
         </a>
       </ul>
     </div>
