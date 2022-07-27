@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "378b21871734267ea0d4",
+    "revision": "0b990b93d0c51fa93bfd",
     "url": "/Portfolio-React/static/css/main.7c4aa708.chunk.css"
   },
   {
-    "revision": "378b21871734267ea0d4",
-    "url": "/Portfolio-React/static/js/main.378b2187.chunk.js"
+    "revision": "0b990b93d0c51fa93bfd",
+    "url": "/Portfolio-React/static/js/main.0b990b93.chunk.js"
   },
   {
     "revision": "feb1b81db1e9ccee4190",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/Portfolio-React/static/media/resume.34676b03.pdf"
   },
   {
-    "revision": "2ff84112b41f8c727ac867e7a90d8592",
-    "url": "/Portfolio-React/static/media/GR-PP.2ff84112.png"
+    "revision": "dcd3380c6530e3547a5e65ab12e8a240",
+    "url": "/Portfolio-React/static/media/GR-PP.dcd3380c.png"
   },
   {
     "revision": "aea70a55b2f9fc35b373ce982004926a",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/Portfolio-React/static/media/darkCustomArrow.bb43ac29.svg"
   },
   {
-    "revision": "e72221a6f978fd937625e6480bc6090f",
+    "revision": "1e059ffdde7cadac32be7db01d45bdd4",
     "url": "/Portfolio-React/index.html"
   }
 ];

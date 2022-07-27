@@ -1,13 +1,13 @@
 {
   "main.css": "/Portfolio-React/static/css/main.7c4aa708.chunk.css",
-  "main.js": "/Portfolio-React/static/js/main.378b2187.chunk.js",
-  "main.js.map": "/Portfolio-React/static/js/main.378b2187.chunk.js.map",
+  "main.js": "/Portfolio-React/static/js/main.0b990b93.chunk.js",
+  "main.js.map": "/Portfolio-React/static/js/main.0b990b93.chunk.js.map",
   "static/js/1.feb1b81d.chunk.js": "/Portfolio-React/static/js/1.feb1b81d.chunk.js",
   "static/js/1.feb1b81d.chunk.js.map": "/Portfolio-React/static/js/1.feb1b81d.chunk.js.map",
   "runtime~main.js": "/Portfolio-React/static/js/runtime~main.d68143df.js",
   "runtime~main.js.map": "/Portfolio-React/static/js/runtime~main.d68143df.js.map",
   "static/media/resume.pdf": "/Portfolio-React/static/media/resume.34676b03.pdf",
-  "static/media/GR-PP.png": "/Portfolio-React/static/media/GR-PP.2ff84112.png",
+  "static/media/GR-PP.png": "/Portfolio-React/static/media/GR-PP.dcd3380c.png",
   "static/media/Todo.PNG": "/Portfolio-React/static/media/Todo.aea70a55.PNG",
   "static/media/typingGame.PNG": "/Portfolio-React/static/media/typingGame.b3e33dc9.PNG",
   "static/media/git.PNG": "/Portfolio-React/static/media/git.e2f4460a.PNG",
@@ -16,6 +16,6 @@
   "static/media/Cards.css": "/Portfolio-React/static/media/darkCustomArrow.bb43ac29.svg",
   "static/css/main.7c4aa708.chunk.css.map": "/Portfolio-React/static/css/main.7c4aa708.chunk.css.map",
   "index.html": "/Portfolio-React/index.html",
-  "precache-manifest.3675a0deea8d25473b52c5128ee6d8a2.js": "/Portfolio-React/precache-manifest.3675a0deea8d25473b52c5128ee6d8a2.js",
+  "precache-manifest.ae38391697266714312af255dc5f82d2.js": "/Portfolio-React/precache-manifest.ae38391697266714312af255dc5f82d2.js",
   "service-worker.js": "/Portfolio-React/service-worker.js"
 }
