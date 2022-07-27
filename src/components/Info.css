@@ -24,6 +24,11 @@
   animation-iteration-count: 1;
 }
 
+.Face {
+  width: 230px;
+  height: 230px;
+}
+
 @keyframes fading {
   0% {
     opacity: 0;
