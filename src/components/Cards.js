@@ -13,7 +13,7 @@ const Cards = () => {
       <a href="https://github.com/GLRose/typingGame" className="box">
         <img src={Typing} alt="git" />
       </a>
-      <a href="https://github.com/GLRose/learning-react" className="box">
+      <a href="https://github.com/GLRose/Runescape-Top100-Scraper" className="box">
         <img src={Git} alt="git" />
       </a>
     </div>
