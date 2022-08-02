@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5058498daa9b75e2df16",
+    "revision": "45e503436a924ebc67d3",
     "url": "/Portfolio-React/static/css/main.7c4aa708.chunk.css"
   },
   {
-    "revision": "5058498daa9b75e2df16",
-    "url": "/Portfolio-React/static/js/main.5058498d.chunk.js"
+    "revision": "45e503436a924ebc67d3",
+    "url": "/Portfolio-React/static/js/main.45e50343.chunk.js"
   },
   {
     "revision": "feb1b81db1e9ccee4190",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/Portfolio-React/static/media/typingGame.b3e33dc9.PNG"
   },
   {
-    "revision": "77da3fad8ee80528a4672b905904fc06",
-    "url": "/Portfolio-React/static/media/git.77da3fad.PNG"
+    "revision": "1f49f3c2b89a1f12337a320000a614a9",
+    "url": "/Portfolio-React/static/media/git.1f49f3c2.PNG"
   },
   {
     "revision": "6335649b3e48b672fde14094f740c6e8",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/Portfolio-React/static/media/darkCustomArrow.bb43ac29.svg"
   },
   {
-    "revision": "d4fa960336992b00e72e0b0923e10eb7",
+    "revision": "c365a2c000114c85fe0a86b791028174",
     "url": "/Portfolio-React/index.html"
   }
 ];
