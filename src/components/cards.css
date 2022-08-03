@@ -1,13 +1,13 @@
 .card {
   margin-top: 200px;
   display: flex;
-  flex-direction: row;
   justify-content: center;
+  /* gap: 100px; */
 }
 
 .card img {
   border: 10px solid rgba(255, 255, 255, 0.06);
-  width: 440px;
+  width: 100 vw;
   height: 400px;
   opacity: 0.5;
   cursor: url(../images/darkCustomArrow.svg), auto;
@@ -18,6 +18,27 @@
   border: 10px solid #bfe7f1;
   opacity: 1;
   border-radius: 5px;
+}
+
+.breakfast {
+  color: white;
+  font-family: "Aldrich";
+  font-size: 22px; 
+  text-align: center;
+}
+
+.typingGame {
+  color: white;
+  font-family: "Aldrich";
+  font-size: 22px;
+  text-align: center;
+}
+
+.scraper {
+  color: white;
+  font-family: "Aldrich";
+  font-size: 22px;
+  text-align: center;
 }
 
 @media screen and (max-width: 600px) {
