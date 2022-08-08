@@ -1,11 +1,11 @@
-.card {
+.Card {
   margin-top: 200px;
   display: flex;
   justify-content: center;
   /* gap: 100px; */
 }
 
-.card img {
+.Card img {
   border: 10px solid rgba(255, 255, 255, 0.06);
   width: 100 vw;
   height: 400px;
@@ -14,7 +14,7 @@
   object-fit: cover;
 }
 
-.card img:hover {
+.Card img:hover {
   border: 10px solid #bfe7f1;
   opacity: 1;
   border-radius: 5px;

@@ -15,7 +15,7 @@ const Navbar = () => {
           <a href="#Face">About</a>
         </li>
         <li>
-          <a href="#card">Projects</a>
+          <a href="#Card">Projects</a>
         </li>
         <a href="https://github.com/GLRose" title="github">
           <AiFillGithub className="socials" />
