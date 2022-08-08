@@ -42,12 +42,12 @@
 }
 
 @media screen and (max-width: 600px) {
-  .card {
+  .Card {
     flex-direction: column;
     justify-content: center;
     align-items: center;
   }
-  .card img {
+  .Card img {
     width: 330px;
     height: 330px;
     /* object-fit: cover; */
