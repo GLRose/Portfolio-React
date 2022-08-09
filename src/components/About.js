@@ -5,12 +5,10 @@ const About = () => {
   return (
     <div className="about">
       <p>
-        I have always taken interest in how the web works. It was always
-        interesting watching the web grow year after year, and I could not help
-        but want to be apart of creating things for the web. I am an avid
-        learner always striving for as much information that I can get my hands
-        on. I specialize mainly in frontend development, but I can do backend
-        development too.
+        When I first learned to code I was hooked. I found web development and software development magical. 
+        The fact that you can nearly do anything by typing a language that a computer can interpret is amazing. 
+        Sure there is magic behind coding but the true source of that spark is problem solving.
+        I take pride in developing fullstack web applications and I hope that I can solve more problems in a team of other passionate developers!
       </p>
     </div>
   );
