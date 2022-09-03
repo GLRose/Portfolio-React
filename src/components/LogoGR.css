@@ -4,29 +4,7 @@
   padding-top: 66px;
 }
 
-.defaultLogo:hover {
-  -moz-animation: spin 1s linear;
-  animation: spin 1s linear;
-  padding-left: 39px;
-  padding-right: 39px;
-}
 
-@-moz-keyframes spin {
-  100% {
-    -moz-transform: rotateY(360deg);
-  }
-}
-@-webkit-keyframes spin {
-  100% {
-    -webkit-transform: rotateY(360deg);
-  }
-}
-@keyframes spin {
-  100% {
-    -webkit-transform: rotateY(360deg);
-    transform: rotateY(360deg);
-  }
-}
 
 
 
