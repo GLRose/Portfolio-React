@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b09c5c6c15be34a11402",
+    "revision": "74457c0477524f2b1666",
     "url": "/Portfolio-React/static/css/main.f8e6c0d8.chunk.css"
   },
   {
-    "revision": "b09c5c6c15be34a11402",
-    "url": "/Portfolio-React/static/js/main.b09c5c6c.chunk.js"
+    "revision": "74457c0477524f2b1666",
+    "url": "/Portfolio-React/static/js/main.74457c04.chunk.js"
   },
   {
     "revision": "feb1b81db1e9ccee4190",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/Portfolio-React/static/js/runtime~main.d68143df.js"
   },
   {
-    "revision": "c33a2722cd16c4129298eddcd03cd170",
-    "url": "/Portfolio-React/static/media/resume.c33a2722.pdf"
+    "revision": "06e81b43d6ce62a6027a44674ed506b8",
+    "url": "/Portfolio-React/static/media/resume.06e81b43.pdf"
   },
   {
     "revision": "dcd3380c6530e3547a5e65ab12e8a240",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/Portfolio-React/static/media/darkCustomArrow.bb43ac29.svg"
   },
   {
-    "revision": "641ba4259b3bb6284de50213590428ec",
+    "revision": "8cb527949e095b91455ab68a9a318448",
     "url": "/Portfolio-React/index.html"
   }
 ];
